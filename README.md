@@ -7,7 +7,7 @@ Includes information about all previous sessions where the user logged in and ou
 Usage: </br>
 
 ```shell
-$ install project-timelog
+$ npm install project-timelog
 ```
 
 to log into a session using CLI: </br>
